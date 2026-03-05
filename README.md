@@ -42,5 +42,5 @@ The dynamic array implementation does not perform explicit bounds checking since
 Binary search only works correctly on sorted arrays.
 The implementation is limited to integer data types.
 
-#Time Spent
+# Time Spent
 +- 3 days
